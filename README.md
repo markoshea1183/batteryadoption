@@ -9,6 +9,8 @@ https://www.ercot.com/mp/data-products/data-product-details?id=np4-180-er
 
 Utilities, plant, and generator data from:
 https://www.eia.gov/electricity/data/eia860/
+Monthly:
+https://www.eia.gov/electricity/data/eia860m/
 
 Hourly loads data from:
 https://www.ercot.com/gridinfo/load/load_hist
