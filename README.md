@@ -1,8 +1,8 @@
 # batteryadoption
 
 Research question:
-Does grid-scale battery adoption reduce electricity price volatility?
-
+Does grid-scale battery adoption reduce electricity price volatility in ERCOT?
+    - does it reduce tail risk (price spikes)?
 
 Hourly price data for TX grid from:
 https://www.ercot.com/mp/data-products/data-product-details?id=np4-180-er
